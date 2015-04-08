@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: 4ff2912d10b0ee845bbd656bad54b5dd
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Castle_0
+    21300002: PC Computer - Zombie Island - Castle_1
+    21300004: PC Computer - Zombie Island - Castle_2
+    21300006: PC Computer - Zombie Island - Castle_3
+    21300008: PC Computer - Zombie Island - Castle_4
+    21300010: PC Computer - Zombie Island - Castle_5
+    21300012: PC Computer - Zombie Island - Castle_6
+    21300014: PC Computer - Zombie Island - Castle_7
+    21300016: PC Computer - Zombie Island - Castle_8
+    21300018: PC Computer - Zombie Island - Castle_9
+    21300020: PC Computer - Zombie Island - Castle_10
+    21300022: PC Computer - Zombie Island - Castle_11
+    21300024: PC Computer - Zombie Island - Castle_12
+    21300026: PC Computer - Zombie Island - Castle_13
+    21300028: PC Computer - Zombie Island - Castle_14
+    21300030: PC Computer - Zombie Island - Castle_15
+    21300032: Castle_16
+    21300034: PC Computer - Zombie Island - Castle_17
+    21300036: PC Computer - Zombie Island - Castle_18
+    21300038: PC Computer - Zombie Island - Castle_19
+    21300040: PC Computer - Zombie Island - Castle_20
+    21300042: PC Computer - Zombie Island - Castle_21
+    21300044: PC Computer - Zombie Island - Castle_22
+    21300046: PC Computer - Zombie Island - Castle_23
+    21300048: PC Computer - Zombie Island - Castle_24
+    21300050: PC Computer - Zombie Island - Castle_25
+    21300052: PC Computer - Zombie Island - Castle_26
+    21300054: PC Computer - Zombie Island - Castle_27
+    21300056: PC Computer - Zombie Island - Castle_28
+    21300058: PC Computer - Zombie Island - Castle_29
+    21300060: PC Computer - Zombie Island - Castle_30
+    21300062: PC Computer - Zombie Island - Castle_31
+    21300064: PC Computer - Zombie Island - Castle_32
+    21300066: PC Computer - Zombie Island - Castle_33
+    21300068: PC Computer - Zombie Island - Castle_34
+    21300070: PC Computer - Zombie Island - Castle_35
+    21300072: PC Computer - Zombie Island - Castle_36
+    21300074: PC Computer - Zombie Island - Castle_37
+    21300076: PC Computer - Zombie Island - Castle_38
+    21300078: PC Computer - Zombie Island - Castle_39
+    21300080: PC Computer - Zombie Island - Castle_40
+    21300082: PC Computer - Zombie Island - Castle_41
+    21300084: PC Computer - Zombie Island - Castle_42
+    21300086: PC Computer - Zombie Island - Castle_43
+    21300088: PC Computer - Zombie Island - Castle_44
+    21300090: PC Computer - Zombie Island - Castle_45
+    21300092: PC Computer - Zombie Island - Castle_46
+    21300094: PC Computer - Zombie Island - Castle_47
+    21300096: PC Computer - Zombie Island - Castle_48
+    21300098: PC Computer - Zombie Island - Castle_49
+    21300100: PC Computer - Zombie Island - Castle_50
+    21300102: PC Computer - Zombie Island - Castle_51
+    21300104: PC Computer - Zombie Island - Castle_52
+    21300106: PC Computer - Zombie Island - Castle_53
+    21300108: PC Computer - Zombie Island - Castle_54
+    21300110: PC Computer - Zombie Island - Castle_55
+    21300112: PC Computer - Zombie Island - Castle_56
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Castle_0
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 0
+        width: 450
+        height: 384
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

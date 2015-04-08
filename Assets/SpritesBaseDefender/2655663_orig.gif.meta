@@ -1,0 +1,1741 @@
+fileFormatVersion: 2
+guid: 40e9a1976b8751749839d0c5edfe5abd
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cesped
+    21300002: 2655663_orig_1
+    21300004: 2655663_orig_2
+    21300006: 2655663_orig_3
+    21300008: 2655663_orig_4
+    21300010: 2655663_orig_5
+    21300012: 2655663_orig_6
+    21300014: 2655663_orig_7
+    21300016: 2655663_orig_8
+    21300018: 2655663_orig_9
+    21300020: 2655663_orig_10
+    21300022: 2655663_orig_11
+    21300024: 2655663_orig_12
+    21300026: 2655663_orig_13
+    21300028: 2655663_orig_14
+    21300030: 2655663_orig_15
+    21300032: 2655663_orig_16
+    21300034: 2655663_orig_17
+    21300036: 2655663_orig_18
+    21300038: 2655663_orig_19
+    21300040: 2655663_orig_20
+    21300042: 2655663_orig_21
+    21300044: 2655663_orig_22
+    21300046: 2655663_orig_23
+    21300048: piedra
+    21300050: 2655663_orig_25
+    21300052: 2655663_orig_26
+    21300054: 2655663_orig_27
+    21300056: 2655663_orig_28
+    21300058: 2655663_orig_29
+    21300060: 2655663_orig_30
+    21300062: 2655663_orig_31
+    21300064: 2655663_orig_32
+    21300066: 2655663_orig_33
+    21300068: 2655663_orig_34
+    21300070: 2655663_orig_35
+    21300072: 2655663_orig_36
+    21300074: 2655663_orig_37
+    21300076: 2655663_orig_38
+    21300078: 2655663_orig_39
+    21300080: 2655663_orig_40
+    21300082: 2655663_orig_41
+    21300084: 2655663_orig_42
+    21300086: 2655663_orig_43
+    21300088: 2655663_orig_44
+    21300090: 2655663_orig_45
+    21300092: 2655663_orig_46
+    21300094: 2655663_orig_47
+    21300096: 2655663_orig_48
+    21300098: 2655663_orig_49
+    21300100: 2655663_orig_50
+    21300102: 2655663_orig_51
+    21300104: 2655663_orig_52
+    21300106: 2655663_orig_53
+    21300108: 2655663_orig_54
+    21300110: 2655663_orig_55
+    21300112: 2655663_orig_56
+    21300114: 2655663_orig_57
+    21300116: 2655663_orig_58
+    21300118: 2655663_orig_59
+    21300120: 2655663_orig_60
+    21300122: 2655663_orig_61
+    21300124: 2655663_orig_62
+    21300126: 2655663_orig_63
+    21300128: 2655663_orig_64
+    21300130: 2655663_orig_65
+    21300132: 2655663_orig_66
+    21300134: 2655663_orig_67
+    21300136: tierra
+    21300138: 2655663_orig_69
+    21300140: 2655663_orig_70
+    21300142: 2655663_orig_71
+    21300144: 2655663_orig_72
+    21300146: 2655663_orig_73
+    21300148: 2655663_orig_74
+    21300150: 2655663_orig_75
+    21300152: 2655663_orig_76
+    21300154: 2655663_orig_77
+    21300156: 2655663_orig_78
+    21300158: 2655663_orig_79
+    21300160: 2655663_orig_80
+    21300162: 2655663_orig_81
+    21300164: 2655663_orig_82
+    21300166: 2655663_orig_83
+    21300168: 2655663_orig_84
+    21300170: 2655663_orig_85
+    21300172: 2655663_orig_86
+    21300174: 2655663_orig_87
+    21300176: 2655663_orig_88
+    21300178: 2655663_orig_89
+    21300180: 2655663_orig_90
+    21300182: 2655663_orig_91
+    21300184: 2655663_orig_92
+    21300186: 2655663_orig_93
+    21300188: 2655663_orig_94
+    21300190: 2655663_orig_95
+    21300192: 2655663_orig_96
+    21300194: 2655663_orig_97
+    21300196: 2655663_orig_98
+    21300198: 2655663_orig_99
+    21300200: 2655663_orig_100
+    21300202: 2655663_orig_101
+    21300204: 2655663_orig_102
+    21300206: 2655663_orig_103
+    21300208: 2655663_orig_104
+    21300210: 2655663_orig_105
+    21300212: 2655663_orig_106
+    21300214: 2655663_orig_107
+    21300216: 2655663_orig_108
+    21300218: 2655663_orig_109
+    21300220: 2655663_orig_110
+    21300222: 2655663_orig_111
+    21300224: 2655663_orig_112
+    21300226: 2655663_orig_113
+    21300228: 2655663_orig_114
+    21300230: 2655663_orig_115
+    21300232: 2655663_orig_116
+    21300234: 2655663_orig_117
+    21300236: 2655663_orig_118
+    21300238: 2655663_orig_119
+    21300240: 2655663_orig_120
+    21300242: 2655663_orig_121
+    21300244: 2655663_orig_122
+    21300246: 2655663_orig_123
+    21300248: 2655663_orig_124
+    21300250: 2655663_orig_125
+    21300252: 2655663_orig_126
+    21300254: 2655663_orig_127
+    21300256: 2655663_orig_128
+    21300258: 2655663_orig_129
+    21300260: 2655663_orig_130
+    21300262: 2655663_orig_131
+    21300264: 2655663_orig_132
+    21300266: 2655663_orig_133
+    21300268: 2655663_orig_134
+    21300270: 2655663_orig_135
+    21300272: 2655663_orig_136
+    21300274: 2655663_orig_137
+    21300276: 2655663_orig_138
+    21300278: 2655663_orig_139
+    21300280: 2655663_orig_140
+    21300282: 2655663_orig_141
+    21300284: 2655663_orig_142
+    21300286: 2655663_orig_143
+    21300288: 2655663_orig_144
+    21300290: 2655663_orig_145
+    21300292: 2655663_orig_146
+    21300294: 2655663_orig_147
+    21300296: 2655663_orig_148
+    21300298: 2655663_orig_149
+    21300300: 2655663_orig_150
+    21300302: 2655663_orig_151
+    21300304: 2655663_orig_152
+    21300306: 2655663_orig_153
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cesped
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 277
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 277
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 277
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 277
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 277
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 277
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 277
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 277
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 277
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 277
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 277
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 257
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 257
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_14
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 257
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 257
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 257
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 257
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_18
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 257
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 257
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_20
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 257
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 257
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 237
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_23
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 237
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piedra
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 237
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 237
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 237
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_27
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 237
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_28
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 237
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_29
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 237
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 237
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_31
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 237
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_32
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 237
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 217
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_34
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 217
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 217
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_36
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 217
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 217
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_38
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 217
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_39
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 217
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_40
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 217
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 217
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_42
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 217
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_43
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 217
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_45
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 197
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_46
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 197
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_47
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 197
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 197
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_49
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 197
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_50
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 197
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_51
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 197
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 197
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_53
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 197
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 197
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_56
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 177
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_57
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 177
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_58
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 177
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_59
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 177
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_60
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 177
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_61
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 177
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_62
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 177
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_63
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 177
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_64
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 177
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 177
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_67
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 157
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tierra
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 148
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_69
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 157
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 157
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_71
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 157
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_72
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 157
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_73
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 157
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 157
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_75
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 157
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_76
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 157
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_78
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 137
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 137
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_80
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 137
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_81
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 137
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_82
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 137
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_83
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 137
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_84
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 137
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_85
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 137
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_86
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 137
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_87
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 137
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_89
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 117
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_90
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 117
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_91
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 117
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_92
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 117
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_93
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 117
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_94
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 117
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_95
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 117
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_96
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 117
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_97
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 117
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_98
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 117
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_100
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 97
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_101
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 97
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_102
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 97
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_103
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 97
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_104
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 97
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_105
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 97
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_106
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 97
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 97
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_108
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 97
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_109
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 97
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_111
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 77
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_112
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 77
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_113
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 77
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_114
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 77
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_115
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 77
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_116
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 77
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_117
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 77
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_118
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 77
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_119
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 77
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_120
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 77
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_122
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 57
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_123
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 57
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_124
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 57
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_125
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 57
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_126
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 57
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_127
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 57
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_128
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 57
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_129
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 57
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_130
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 57
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_131
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 57
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_133
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 37
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_134
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 37
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_135
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 37
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_136
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 37
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_137
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 37
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_138
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 37
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_139
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 37
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_140
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 37
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_141
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 37
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_142
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 37
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_144
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 17
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_145
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 17
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_146
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 17
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_147
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 17
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_148
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 17
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_149
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 17
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_150
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 17
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_151
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 17
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_152
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 17
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2655663_orig_153
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 17
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: 8a4dc6ff8c4e14c4ba82cab6786dc5bd
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gheb_warrior_bow_0
+    21300002: gheb_warrior_bow_1
+    21300004: gheb_warrior_bow_2
+    21300006: gheb_warrior_bow_3
+    21300008: gheb_warrior_bow_4
+    21300010: gheb_warrior_bow_5
+    21300012: gheb_warrior_bow_6
+    21300014: gheb_warrior_bow_7
+    21300016: gheb_warrior_bow_8
+    21300018: gheb_warrior_bow_9
+    21300020: gheb_warrior_bow_10
+    21300022: gheb_warrior_bow_11
+    21300024: gheb_warrior_bow_12
+    21300026: gheb_warrior_bow_13
+    21300028: gheb_warrior_bow_14
+    21300030: gheb_warrior_bow_15
+    21300032: gheb_warrior_bow_16
+    21300034: gheb_warrior_bow_17
+    21300036: gheb_warrior_bow_18
+    21300038: gheb_warrior_bow_19
+    21300040: gheb_warrior_bow_20
+    21300042: gheb_warrior_bow_21
+    21300044: gheb_warrior_bow_22
+    21300046: gheb_warrior_bow_23
+    21300048: gheb_warrior_bow_24
+    21300050: gheb_warrior_bow_25
+    21300052: gheb_warrior_bow_26
+    21300054: gheb_warrior_bow_27
+    21300056: gheb_warrior_bow_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: gheb_warrior_bow_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 293
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gheb_warrior_bow_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 293
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gheb_warrior_bow_2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 293
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gheb_warrior_bow_3
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 293
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gheb_warrior_bow_4
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 293
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gheb_warrior_bow_5
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 293
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gheb_warrior_bow_6
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 311
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gheb_warrior_bow_7
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 324
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gheb_warrior_bow_8
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 324
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gheb_warrior_bow_9
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 298
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gheb_warrior_bow_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 211
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gheb_warrior_bow_11
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 211
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gheb_warrior_bow_12
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 211
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gheb_warrior_bow_13
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 211
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gheb_warrior_bow_14
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 211
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gheb_warrior_bow_15
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 211
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gheb_warrior_bow_16
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 210
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gheb_warrior_bow_17
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 211
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gheb_warrior_bow_18
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 135
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gheb_warrior_bow_19
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 135
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gheb_warrior_bow_20
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 181
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gheb_warrior_bow_21
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 135
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gheb_warrior_bow_22
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 135
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gheb_warrior_bow_23
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 39
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gheb_warrior_bow_24
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 39
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gheb_warrior_bow_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 39
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gheb_warrior_bow_26
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 39
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gheb_warrior_bow_27
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 39
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gheb_warrior_bow_28
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 39
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

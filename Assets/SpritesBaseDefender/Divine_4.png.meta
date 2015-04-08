@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: 0a004bdd65593b24f8dd5aac592ab941
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Divine_4_0
+    21300002: Divine_4_1
+    21300004: Divine_4_2
+    21300006: Divine_4_3
+    21300008: Divine_4_4
+    21300010: Divine_4_5
+    21300012: Divine_4_6
+    21300014: Divine_4_7
+    21300016: Divine_4_8
+    21300018: Divine_4_9
+    21300020: Divine_4_10
+    21300022: Divine_4_11
+    21300024: Divine_4_12
+    21300026: Divine_4_13
+    21300028: Divine_4_14
+    21300030: Divine_4_15
+    21300032: Divine_4_16
+    21300034: Divine_4_17
+    21300036: Divine_4_18
+    21300038: Divine_4_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Divine_4_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 103
+        width: 61
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Divine_4_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 103
+        width: 61
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Divine_4_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 93
+        width: 61
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Divine_4_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 96
+        width: 67
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Divine_4_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 185
+        width: 129
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Divine_4_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 119
+        width: 129
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Divine_4_6
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 81
+        width: 129
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Divine_4_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 130
+        width: 141
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Divine_4_8
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 169
+        width: 134
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Divine_4_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 151
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Divine_4_10
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 61
+        width: 129
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Divine_4_11
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 79
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Divine_4_12
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 22
+        width: 82
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Divine_4_13
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 8
+        width: 171
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Divine_4_14
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 62
+        width: 130
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Divine_4_15
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Divine_4_16
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 4
+        width: 87
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Divine_4_17
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 3
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Divine_4_18
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 2
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Divine_4_19
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 8
+        width: 117
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
