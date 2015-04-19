@@ -1,0 +1,2541 @@
+fileFormatVersion: 2
+guid: c69f9db561717304f8a8e032c733fb7a
+timeCreated: 1429458869
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SNES_MK2_blood_0
+    21300002: SNES_MK2_blood_1
+    21300004: SNES_MK2_blood_2
+    21300006: SNES_MK2_blood_3
+    21300008: SNES_MK2_blood_4
+    21300010: SNES_MK2_blood_5
+    21300012: SNES_MK2_blood_6
+    21300014: SNES_MK2_blood_7
+    21300016: SNES_MK2_blood_8
+    21300018: SNES_MK2_blood_9
+    21300020: SNES_MK2_blood_10
+    21300022: SNES_MK2_blood_11
+    21300024: SNES_MK2_blood_12
+    21300026: SNES_MK2_blood_13
+    21300028: SNES_MK2_blood_14
+    21300030: SNES_MK2_blood_15
+    21300032: SNES_MK2_blood_16
+    21300034: SNES_MK2_blood_17
+    21300036: SNES_MK2_blood_18
+    21300038: SNES_MK2_blood_19
+    21300040: SNES_MK2_blood_20
+    21300042: SNES_MK2_blood_21
+    21300044: SNES_MK2_blood_22
+    21300046: SNES_MK2_blood_23
+    21300048: SNES_MK2_blood_24
+    21300050: SNES_MK2_blood_25
+    21300052: SNES_MK2_blood_26
+    21300054: SNES_MK2_blood_27
+    21300056: SNES_MK2_blood_28
+    21300058: SNES_MK2_blood_29
+    21300060: SNES_MK2_blood_30
+    21300062: SNES_MK2_blood_31
+    21300064: SNES_MK2_blood_32
+    21300066: SNES_MK2_blood_33
+    21300068: SNES_MK2_blood_34
+    21300070: SNES_MK2_blood_35
+    21300072: SNES_MK2_blood_36
+    21300074: SNES_MK2_blood_37
+    21300076: SNES_MK2_blood_38
+    21300078: SNES_MK2_blood_39
+    21300080: SNES_MK2_blood_40
+    21300082: SNES_MK2_blood_41
+    21300084: SNES_MK2_blood_42
+    21300086: SNES_MK2_blood_43
+    21300088: SNES_MK2_blood_44
+    21300090: SNES_MK2_blood_45
+    21300092: SNES_MK2_blood_46
+    21300094: SNES_MK2_blood_47
+    21300096: SNES_MK2_blood_48
+    21300098: SNES_MK2_blood_49
+    21300100: SNES_MK2_blood_50
+    21300102: SNES_MK2_blood_51
+    21300104: SNES_MK2_blood_52
+    21300106: SNES_MK2_blood_53
+    21300108: SNES_MK2_blood_54
+    21300110: SNES_MK2_blood_55
+    21300112: SNES_MK2_blood_56
+    21300114: SNES_MK2_blood_57
+    21300116: SNES_MK2_blood_58
+    21300118: SNES_MK2_blood_59
+    21300120: SNES_MK2_blood_60
+    21300122: SNES_MK2_blood_61
+    21300124: SNES_MK2_blood_62
+    21300126: SNES_MK2_blood_63
+    21300128: SNES_MK2_blood_64
+    21300130: SNES_MK2_blood_65
+    21300132: SNES_MK2_blood_66
+    21300134: SNES_MK2_blood_67
+    21300136: SNES_MK2_blood_68
+    21300138: SNES_MK2_blood_69
+    21300140: SNES_MK2_blood_70
+    21300142: SNES_MK2_blood_71
+    21300144: SNES_MK2_blood_72
+    21300146: SNES_MK2_blood_73
+    21300148: SNES_MK2_blood_74
+    21300150: SNES_MK2_blood_75
+    21300152: SNES_MK2_blood_76
+    21300154: SNES_MK2_blood_77
+    21300156: SNES_MK2_blood_78
+    21300158: SNES_MK2_blood_79
+    21300160: SNES_MK2_blood_80
+    21300162: SNES_MK2_blood_81
+    21300164: SNES_MK2_blood_82
+    21300166: SNES_MK2_blood_83
+    21300168: SNES_MK2_blood_84
+    21300170: SNES_MK2_blood_85
+    21300172: SNES_MK2_blood_86
+    21300174: SNES_MK2_blood_87
+    21300176: SNES_MK2_blood_88
+    21300178: SNES_MK2_blood_89
+    21300180: SNES_MK2_blood_90
+    21300182: SNES_MK2_blood_91
+    21300184: SNES_MK2_blood_92
+    21300186: SNES_MK2_blood_93
+    21300188: SNES_MK2_blood_94
+    21300190: SNES_MK2_blood_95
+    21300192: SNES_MK2_blood_96
+    21300194: SNES_MK2_blood_97
+    21300196: SNES_MK2_blood_98
+    21300198: SNES_MK2_blood_99
+    21300200: SNES_MK2_blood_100
+    21300202: SNES_MK2_blood_101
+    21300204: SNES_MK2_blood_102
+    21300206: SNES_MK2_blood_103
+    21300208: SNES_MK2_blood_104
+    21300210: SNES_MK2_blood_105
+    21300212: SNES_MK2_blood_106
+    21300214: SNES_MK2_blood_107
+    21300216: SNES_MK2_blood_108
+    21300218: SNES_MK2_blood_109
+    21300220: SNES_MK2_blood_110
+    21300222: SNES_MK2_blood_111
+    21300224: SNES_MK2_blood_112
+    21300226: SNES_MK2_blood_113
+    21300228: SNES_MK2_blood_114
+    21300230: SNES_MK2_blood_115
+    21300232: SNES_MK2_blood_116
+    21300234: SNES_MK2_blood_117
+    21300236: SNES_MK2_blood_118
+    21300238: SNES_MK2_blood_119
+    21300240: SNES_MK2_blood_120
+    21300242: SNES_MK2_blood_121
+    21300244: SNES_MK2_blood_122
+    21300246: SNES_MK2_blood_123
+    21300248: SNES_MK2_blood_124
+    21300250: SNES_MK2_blood_125
+    21300252: SNES_MK2_blood_126
+    21300254: SNES_MK2_blood_127
+    21300256: SNES_MK2_blood_128
+    21300258: SNES_MK2_blood_129
+    21300260: SNES_MK2_blood_130
+    21300262: SNES_MK2_blood_131
+    21300264: SNES_MK2_blood_132
+    21300266: SNES_MK2_blood_133
+    21300268: SNES_MK2_blood_134
+    21300270: SNES_MK2_blood_135
+    21300272: SNES_MK2_blood_136
+    21300274: SNES_MK2_blood_137
+    21300276: SNES_MK2_blood_138
+    21300278: SNES_MK2_blood_139
+    21300280: SNES_MK2_blood_140
+    21300282: SNES_MK2_blood_141
+    21300284: SNES_MK2_blood_142
+    21300286: SNES_MK2_blood_143
+    21300288: SNES_MK2_blood_144
+    21300290: SNES_MK2_blood_145
+    21300292: SNES_MK2_blood_146
+    21300294: SNES_MK2_blood_147
+    21300296: SNES_MK2_blood_148
+    21300298: SNES_MK2_blood_149
+    21300300: SNES_MK2_blood_150
+    21300302: SNES_MK2_blood_151
+    21300304: SNES_MK2_blood_152
+    21300306: SNES_MK2_blood_153
+    21300308: SNES_MK2_blood_154
+    21300310: SNES_MK2_blood_155
+    21300312: SNES_MK2_blood_156
+    21300314: SNES_MK2_blood_157
+    21300316: SNES_MK2_blood_158
+    21300318: SNES_MK2_blood_159
+    21300320: SNES_MK2_blood_160
+    21300322: SNES_MK2_blood_161
+    21300324: SNES_MK2_blood_162
+    21300326: SNES_MK2_blood_163
+    21300328: SNES_MK2_blood_164
+    21300330: SNES_MK2_blood_165
+    21300332: SNES_MK2_blood_166
+    21300334: SNES_MK2_blood_167
+    21300336: SNES_MK2_blood_168
+    21300338: SNES_MK2_blood_169
+    21300340: SNES_MK2_blood_170
+    21300342: SNES_MK2_blood_171
+    21300344: SNES_MK2_blood_172
+    21300346: SNES_MK2_blood_173
+    21300348: SNES_MK2_blood_174
+    21300350: SNES_MK2_blood_175
+    21300352: SNES_MK2_blood_176
+    21300354: SNES_MK2_blood_177
+    21300356: SNES_MK2_blood_178
+    21300358: SNES_MK2_blood_179
+    21300360: SNES_MK2_blood_180
+    21300362: SNES_MK2_blood_181
+    21300364: SNES_MK2_blood_182
+    21300366: SNES_MK2_blood_183
+    21300368: SNES_MK2_blood_184
+    21300370: SNES_MK2_blood_185
+    21300372: SNES_MK2_blood_186
+    21300374: SNES_MK2_blood_187
+    21300376: SNES_MK2_blood_188
+    21300378: SNES_MK2_blood_189
+    21300380: SNES_MK2_blood_190
+    21300382: SNES_MK2_blood_191
+    21300384: SNES_MK2_blood_192
+    21300386: SNES_MK2_blood_193
+    21300388: SNES_MK2_blood_194
+    21300390: SNES_MK2_blood_195
+    21300392: SNES_MK2_blood_196
+    21300394: SNES_MK2_blood_197
+    21300396: SNES_MK2_blood_198
+    21300398: SNES_MK2_blood_199
+    21300400: SNES_MK2_blood_200
+    21300402: SNES_MK2_blood_201
+    21300404: SNES_MK2_blood_202
+    21300406: SNES_MK2_blood_203
+    21300408: SNES_MK2_blood_204
+    21300410: SNES_MK2_blood_205
+    21300412: SNES_MK2_blood_206
+    21300414: SNES_MK2_blood_207
+    21300416: SNES_MK2_blood_208
+    21300418: SNES_MK2_blood_209
+    21300420: SNES_MK2_blood_210
+    21300422: SNES_MK2_blood_211
+    21300424: SNES_MK2_blood_212
+    21300426: SNES_MK2_blood_213
+    21300428: SNES_MK2_blood_214
+    21300430: SNES_MK2_blood_215
+    21300432: SNES_MK2_blood_216
+    21300434: SNES_MK2_blood_217
+    21300436: SNES_MK2_blood_218
+    21300438: SNES_MK2_blood_219
+    21300440: SNES_MK2_blood_220
+    21300442: SNES_MK2_blood_221
+    21300444: SNES_MK2_blood_222
+    21300446: SNES_MK2_blood_223
+    21300448: SNES_MK2_blood_224
+    21300450: SNES_MK2_blood_225
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SNES_MK2_blood_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 550
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 574
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 577
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 581
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 550
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 550
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 550
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 564
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_8
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 550
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 550
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_10
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 550
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_11
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 560
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 517
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 522
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 517
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_15
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 517
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 517
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 523
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 517
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 523
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 488
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_21
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 488
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_22
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 488
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_23
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 488
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_24
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 488
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 488
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_26
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 488
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_27
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 488
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_28
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 488
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_29
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 488
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_30
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 491
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_31
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 488
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_32
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 469
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_33
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 451
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_34
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 451
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_35
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 469
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_36
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 453
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_37
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 436
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_38
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 436
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_39
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 453
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_40
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 448
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_41
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 448
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_42
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 438
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_43
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 424
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_44
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 424
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_45
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 438
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_46
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 434
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_47
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 443
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_48
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 443
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_49
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 434
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_50
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 438
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_51
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 422
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_52
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 438
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_53
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 422
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_54
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 422
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_55
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 426
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_56
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 426
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_57
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 430
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_58
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 430
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_59
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 398
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_60
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 410
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_61
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 410
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_62
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 399
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_63
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 408
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_64
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 421
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_65
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 421
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_66
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 408
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_67
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 408
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_68
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 408
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_69
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 380
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_70
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 346
+        width: 21
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_71
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 306
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_72
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 366
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_73
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 320
+        width: 70
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_74
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 369
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_75
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 346
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_76
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 348
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_77
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 358
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_78
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 365
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_79
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 376
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_80
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 365
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_81
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 376
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_82
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 358
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_83
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 348
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_84
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 369
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_85
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 346
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_86
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 366
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_87
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 306
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_88
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 346
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_89
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 306
+        width: 20
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_90
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 347
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_91
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 348
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_92
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 398
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_93
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 306
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_94
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 326
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_95
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 327
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_96
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 342
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_97
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 313
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_98
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 326
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_99
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 342
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_100
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 398
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_101
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 327
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_102
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 306
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_103
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 348
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_104
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 347
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_105
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 306
+        width: 16
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_106
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 398
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_107
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 306
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_108
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 333
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_109
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 318
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_110
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 321
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_111
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 338
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_112
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 307
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_113
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 310
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_114
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 398
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_115
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 310
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_116
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 307
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_117
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 321
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_118
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 338
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_119
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 318
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_120
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 306
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_121
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 333
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_122
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 398
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_123
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 306
+        width: 20
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_124
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 306
+        width: 226
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_125
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 272
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_126
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 272
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_127
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 272
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_128
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 272
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_129
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 272
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_130
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 272
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_131
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 272
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_132
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 272
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_133
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 272
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_134
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 272
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_135
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 248
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_136
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 248
+        width: 49
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_137
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 248
+        width: 55
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_138
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 248
+        width: 62
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_139
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 248
+        width: 66
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_140
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 248
+        width: 70
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_141
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 210
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_142
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 210
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_143
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 210
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_144
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 210
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_145
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 210
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_146
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 210
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_147
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 210
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_148
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 210
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_149
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 210
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_150
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 210
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_151
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 210
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_152
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 210
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_153
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 210
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_154
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 210
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_155
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 210
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_156
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 210
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_157
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 210
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_158
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 210
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_159
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 210
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_160
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 173
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_161
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 173
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_162
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 173
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_163
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 173
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_164
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 173
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_165
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 173
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_166
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 173
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_167
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 173
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_168
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 173
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_169
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 173
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_170
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 173
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_171
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 173
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_172
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 173
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_173
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 173
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_174
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 173
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_175
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 173
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_176
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 173
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_177
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 173
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_178
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 173
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_179
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 173
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_180
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 173
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_181
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 173
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_182
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 173
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_183
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 173
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_184
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 136
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_185
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 136
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_186
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 136
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_187
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 136
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_188
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 136
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_189
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 136
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_190
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 136
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_191
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 136
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_192
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 136
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_193
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 136
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_194
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 136
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_195
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 136
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_196
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 136
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_197
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 136
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_198
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 136
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_199
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 136
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_200
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 136
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_201
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 136
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_202
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 136
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_203
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 136
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_204
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 136
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_205
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 136
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_206
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 136
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_207
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 113
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_208
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 113
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_209
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 41
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_210
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 5
+        width: 43
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_211
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 5
+        width: 41
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_212
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 5
+        width: 37
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_213
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 5
+        width: 37
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_214
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 5
+        width: 61
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_215
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 101
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_216
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 89
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_217
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 89
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_218
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 65
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_219
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 65
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_220
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 46
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_221
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 29
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_222
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 29
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_223
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 5
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_224
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 28
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES_MK2_blood_225
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 5
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,31 @@
+
+- Descarga de Unity 5.
+- Aprendizaje de uso de Unity.
+- Tutoriales de internet sobre Unity.
+- Descarga de sprites de internet.
+- Descarga de las sdk de Android Studio para la exportación del proyecto a Android.
+- Configuración del proyecto.
+- Pruebas de exportación en C# y JavaScript para Android.
+- Creación de escena principal vacía.
+- Creación de objeto Jinete de tipo GameObject.
+- Asignado sprite a Jinete.
+- Creación y asignación de script de movimiento lateral para Jinete.
+- Creada escena para probar animaciones y terreno.
+- Uso de un sprite y un fondo prefabricado de Unity para hacer de fondo del nivel. (Sujeto a cambios)
+- Creación de objetos GameObject de torres aliadas y enemigas con un sprite para cada una.
+- Asignada propiedad Box Collider 2D para los objetos.
+- Prueba de colisión.
+// Las animaciones son clips (.anim)
+- Creado modelo animado de Jinete usando la herramienta de animación para sprites de Unity.
+- Creación automática de controlador de sprites asignados a cada animación.
+- Creada animación para correr y para atacar de Jinete.
+- Creado nuevo objeto Jinete y asignada la animación por defecto.
+- Creada animación para muerte de las unidades.
+- Creada carpeta Prefab en la que se guardan los objetos del juego.
+- Guardado Jinete en Prefab.
+- Recargado Jinete.
+- Asignado cuerpo rígido con propiedades de Unity, RigidBody 2D. 
+// Esto controla en el eje de las X y el eje de las Y dónde se encuentra el objeto de tipo GameObject en cada ciclo de juego, además permite activar o desactivar la gravedad, una fuerza de aceleración que ya viene definida en las librerías que importa Unity. Rigidbody 2D es la clase que usa Unity como motor de físicas.
+// El Collider establece que el objeto es "sólido" y por tanto el motor de físicas debe detener el GameObject que se encuentre en contacto con este objeto, es decir, cuando su valor X y su valor Y sean el mismo.
+// Esto evita que los objetos se atraviesen ya que no pueden ocupar el mismo espacio.
+- Añadido Collider a Jinete desde la interfaz de Unity.
