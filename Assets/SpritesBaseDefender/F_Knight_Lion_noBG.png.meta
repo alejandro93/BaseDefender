@@ -1,0 +1,1265 @@
+fileFormatVersion: 2
+guid: 19de7f94eeca423429b3498b48a03595
+timeCreated: 1429463996
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: F_Knight_Lion_noBG_0
+    21300002: F_Knight_Lion_noBG_1
+    21300004: F_Knight_Lion_noBG_2
+    21300006: F_Knight_Lion_noBG_3
+    21300008: F_Knight_Lion_noBG_4
+    21300010: F_Knight_Lion_noBG_5
+    21300012: F_Knight_Lion_noBG_6
+    21300014: F_Knight_Lion_noBG_7
+    21300016: F_Knight_Lion_noBG_8
+    21300018: F_Knight_Lion_noBG_9
+    21300020: F_Knight_Lion_noBG_10
+    21300022: F_Knight_Lion_noBG_11
+    21300024: F_Knight_Lion_noBG_12
+    21300026: F_Knight_Lion_noBG_13
+    21300028: F_Knight_Lion_noBG_14
+    21300030: F_Knight_Lion_noBG_15
+    21300032: F_Knight_Lion_noBG_16
+    21300034: F_Knight_Lion_noBG_17
+    21300036: F_Knight_Lion_noBG_18
+    21300038: F_Knight_Lion_noBG_19
+    21300040: F_Knight_Lion_noBG_20
+    21300042: F_Knight_Lion_noBG_21
+    21300044: F_Knight_Lion_noBG_22
+    21300046: F_Knight_Lion_noBG_23
+    21300048: F_Knight_Lion_noBG_24
+    21300050: F_Knight_Lion_noBG_25
+    21300052: F_Knight_Lion_noBG_26
+    21300054: F_Knight_Lion_noBG_27
+    21300056: F_Knight_Lion_noBG_28
+    21300058: F_Knight_Lion_noBG_29
+    21300060: F_Knight_Lion_noBG_30
+    21300062: F_Knight_Lion_noBG_31
+    21300064: F_Knight_Lion_noBG_32
+    21300066: F_Knight_Lion_noBG_33
+    21300068: F_Knight_Lion_noBG_34
+    21300070: F_Knight_Lion_noBG_35
+    21300072: F_Knight_Lion_noBG_36
+    21300074: F_Knight_Lion_noBG_37
+    21300076: F_Knight_Lion_noBG_38
+    21300078: F_Knight_Lion_noBG_39
+    21300080: F_Knight_Lion_noBG_40
+    21300082: F_Knight_Lion_noBG_41
+    21300084: F_Knight_Lion_noBG_42
+    21300086: F_Knight_Lion_noBG_43
+    21300088: F_Knight_Lion_noBG_44
+    21300090: F_Knight_Lion_noBG_45
+    21300092: F_Knight_Lion_noBG_46
+    21300094: F_Knight_Lion_noBG_47
+    21300096: F_Knight_Lion_noBG_48
+    21300098: F_Knight_Lion_noBG_49
+    21300100: F_Knight_Lion_noBG_50
+    21300102: F_Knight_Lion_noBG_51
+    21300104: F_Knight_Lion_noBG_52
+    21300106: F_Knight_Lion_noBG_53
+    21300108: F_Knight_Lion_noBG_54
+    21300110: F_Knight_Lion_noBG_55
+    21300112: F_Knight_Lion_noBG_56
+    21300114: F_Knight_Lion_noBG_57
+    21300116: F_Knight_Lion_noBG_58
+    21300118: F_Knight_Lion_noBG_59
+    21300120: F_Knight_Lion_noBG_60
+    21300122: F_Knight_Lion_noBG_61
+    21300124: F_Knight_Lion_noBG_62
+    21300126: F_Knight_Lion_noBG_63
+    21300128: F_Knight_Lion_noBG_64
+    21300130: F_Knight_Lion_noBG_65
+    21300132: F_Knight_Lion_noBG_66
+    21300134: F_Knight_Lion_noBG_67
+    21300136: F_Knight_Lion_noBG_68
+    21300138: F_Knight_Lion_noBG_69
+    21300140: F_Knight_Lion_noBG_70
+    21300142: F_Knight_Lion_noBG_71
+    21300144: F_Knight_Lion_noBG_72
+    21300146: F_Knight_Lion_noBG_73
+    21300148: F_Knight_Lion_noBG_74
+    21300150: F_Knight_Lion_noBG_75
+    21300152: F_Knight_Lion_noBG_76
+    21300154: F_Knight_Lion_noBG_77
+    21300156: F_Knight_Lion_noBG_78
+    21300158: F_Knight_Lion_noBG_79
+    21300160: F_Knight_Lion_noBG_80
+    21300162: F_Knight_Lion_noBG_81
+    21300164: F_Knight_Lion_noBG_82
+    21300166: F_Knight_Lion_noBG_83
+    21300168: F_Knight_Lion_noBG_84
+    21300170: F_Knight_Lion_noBG_85
+    21300172: F_Knight_Lion_noBG_86
+    21300174: F_Knight_Lion_noBG_87
+    21300176: F_Knight_Lion_noBG_88
+    21300178: F_Knight_Lion_noBG_89
+    21300180: F_Knight_Lion_noBG_90
+    21300182: F_Knight_Lion_noBG_91
+    21300184: F_Knight_Lion_noBG_92
+    21300186: F_Knight_Lion_noBG_93
+    21300188: F_Knight_Lion_noBG_94
+    21300190: F_Knight_Lion_noBG_95
+    21300192: F_Knight_Lion_noBG_96
+    21300194: F_Knight_Lion_noBG_97
+    21300196: F_Knight_Lion_noBG_98
+    21300198: F_Knight_Lion_noBG_99
+    21300200: F_Knight_Lion_noBG_100
+    21300202: F_Knight_Lion_noBG_101
+    21300204: F_Knight_Lion_noBG_102
+    21300206: F_Knight_Lion_noBG_103
+    21300208: F_Knight_Lion_noBG_104
+    21300210: F_Knight_Lion_noBG_105
+    21300212: F_Knight_Lion_noBG_106
+    21300214: F_Knight_Lion_noBG_107
+    21300216: F_Knight_Lion_noBG_108
+    21300218: F_Knight_Lion_noBG_109
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: F_Knight_Lion_noBG_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1072
+        width: 72
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1066
+        width: 135
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_2
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1070
+        width: 150
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_3
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1066
+        width: 137
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_4
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1065
+        width: 67
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_5
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1157
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_6
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1157
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_7
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1153
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_8
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1154
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_9
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1157
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_10
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1157
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_11
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1157
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_12
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1157
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_13
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1157
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_14
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1157
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_15
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1157
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_16
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1141
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_17
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1141
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_18
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1141
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_19
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1133
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_20
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1141
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_21
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1141
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_22
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1141
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_23
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1141
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_24
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1141
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_25
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1137
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_26
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1141
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_27
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1141
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_28
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1141
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_29
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1141
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_30
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1141
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_31
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1125
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_32
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1125
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_33
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1125
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_34
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1121
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_35
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1125
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_36
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1122
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_37
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1125
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_38
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1125
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_39
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1109
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_40
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1125
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_41
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1125
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_42
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1125
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_43
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1125
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_44
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1125
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_45
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1121
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_46
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1125
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_47
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1121
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_48
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1125
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_49
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1125
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_50
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1125
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_51
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1125
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_52
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1125
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_53
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1109
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_54
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1109
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_55
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1105
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_56
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1105
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_57
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1109
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_58
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1109
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_59
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1106
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_60
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1109
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_61
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1109
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_62
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1109
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_63
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1105
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_64
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1093
+        width: 47
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_65
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1089
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_66
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1093
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_67
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1093
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_68
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1093
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_69
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1089
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_70
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1093
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_71
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1093
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_72
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1093
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_73
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 913
+        width: 72
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_74
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 913
+        width: 71
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_75
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 914
+        width: 71
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_76
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 916
+        width: 76
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_77
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 913
+        width: 72
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_78
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 915
+        width: 72
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_79
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 764
+        width: 140
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_80
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 766
+        width: 151
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_81
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 770
+        width: 152
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_82
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 767
+        width: 149
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_83
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 768
+        width: 135
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_84
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 764
+        width: 142
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_85
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 616
+        width: 166
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_86
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 616
+        width: 166
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_87
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 618
+        width: 155
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_88
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 620
+        width: 150
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_89
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 623
+        width: 150
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_90
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 617
+        width: 161
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_91
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 463
+        width: 149
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_92
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 471
+        width: 142
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_93
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 467
+        width: 139
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_94
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 464
+        width: 141
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_95
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 464
+        width: 150
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_96
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 461
+        width: 151
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_97
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 313
+        width: 67
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_98
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 311
+        width: 67
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_99
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 312
+        width: 65
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_100
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 312
+        width: 65
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_101
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 312
+        width: 67
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_102
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 315
+        width: 68
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_103
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 169
+        width: 73
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_104
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 176
+        width: 143
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_105
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 177
+        width: 150
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_106
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 165
+        width: 138
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_107
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 155
+        width: 67
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_108
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 24
+        width: 166
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Knight_Lion_noBG_109
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 12
+        width: 145
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

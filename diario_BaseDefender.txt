@@ -9,11 +9,12 @@
 - Creación de escena principal vacía.
 - Creación de objeto Jinete de tipo GameObject.
 - Asignado sprite a Jinete.
-- Creación y asignación de script de movimiento lateral para Jinete.
+- Creación y asignación de script de movimiento lateral JineteMov.cs para Jinete. Para ello se inicializan variables de tipo float que definirán la velocidad de movimiento del objeto.
+//Los objetos de tipo GameObject tienen definidas las variables X e Y que recogen el valor en el eje de las X y de las Y de la pantalla en el lugar en el que se encuentran.
 - Creada escena para probar animaciones y terreno.
 - Uso de un sprite y un fondo prefabricado de Unity para hacer de fondo del nivel. (Sujeto a cambios)
 - Creación de objetos GameObject de torres aliadas y enemigas con un sprite para cada una.
-- Asignada propiedad Box Collider 2D para los objetos.
+- Asignada propiedad Box Collider 2D para los objetos tipo torre. No asignada la propiedad RigidBody 2D (explicada más adelante).
 - Prueba de colisión.
 // Las animaciones son clips (.anim)
 - Creado modelo animado de Jinete usando la herramienta de animación para sprites de Unity.
@@ -29,3 +30,33 @@
 // El Collider establece que el objeto es "sólido" y por tanto el motor de físicas debe detener el GameObject que se encuentre en contacto con este objeto, es decir, cuando su valor X y su valor Y sean el mismo.
 // Esto evita que los objetos se atraviesen ya que no pueden ocupar el mismo espacio.
 - Añadido Collider a Jinete desde la interfaz de Unity.
+- Añadida variable booleana al script de JineteMov.cs para saber si está chocando con algo.
+/* En fase de prueba
+- Creado nuevo script Movement que será el controlador de cada objeto, en lugar de que cada objeto tenga su propio script de movimiento. 
+*/
+- Creamos un vector que ponemos a 0 en cada ciclo del juego.
+- Creado método colisionEvent, al que le pasamos por parámetro un objeto de tipo Collision2D (en las librerías de Unity viene definido este objeto cuyos valores son los valores de X e Y que ocupa el objeto al que pertenece).
+/* En fase de prueba
+- Iniciamos una variable de tipo Movement dentro de JineteMov, con la cual controlaremos si debemos mover al Jinete o no.
+- Dentro de void Start() (el cual se ejecuta una vez inicializado el objeto) recogemos el valor de la variable de tipo Movement.
+*/
+- Asignado tag "Enemy" a Jinete.
+//Los Colliders tienen definida una variable tag de tipo String por defecto vacía. Puedes escribir desde la interfaz la cadena de caracteres que quieras y mediante una llamada al Collider en otra clase puedes obtener el tag del collider de modo que puedas identificar con qué objeto está entrando en contacto.
+- Creado método colision en JineteMov
+//Este método busca el nombre del tag del objeto y si coincide ejecuta una accion u otra.
+- Creado objeto con animacion Leon, obtenidos sprites de internet.
+- Creada animacion de correr para Leon.
+- Creada animacion de atacar para Leon.
+- Asignada animaciones de leon y animacion de muerte al objeto Leon.
+- Asignado tag "Ally" a Leon.
+- Modificado script de movimiento de Jinete para reconocer tag de "Ally"
+- Asignados los scripts a ambos objetos.
+- Ambos objetos se desvían al chocar en lugar de pararse. 
+- Establecidas transiciones entre animaciones.
+- Creada variable de tipo Animator en el script de movimiento para controlar el estado de la transición de las animaciones según la acción del objeto.
+- Establecido ángulo para los objetos mediante la interfaz de Unity, de modo que no roten los objetos al chocar con otros. Mediante esto solucionamos el desvío de los objetos al chocarse.
+- Establecido método OnTriggerEnter como sustituto de colision.
+- Asigando mediante la interfaz de Unity la variable animator a Jinete.
+- Asignado isTrigger mediante la interfaz gráfica de Unity a Jinete y Leon. 
+// isTrigger devuelve OnTriggerEnter, OnTriggerExit, OnTriggerStay...
+- Sobreescrito método OnTriggerEnter y OnTriggerExit para Jinete.
