@@ -1,18 +1,12 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-/** 
- * Script que determinara el movimiento de la unidad enemiga 
- * 
- * @Author: Alejandro Benadero Peris
- * 
- * */
-public class JineteMov : MonoBehaviour {
+public class SoldadoEnemyMov : MonoBehaviour {
 
-	public float X = 0.02f;
+	public float X = 0.01f;
 	public float Y = 0f;
 	
-	public int vida = 100;
+	public int vida = 50;
 	
 	private bool recibeDanyo = false;
 	
@@ -20,24 +14,19 @@ public class JineteMov : MonoBehaviour {
 	
 	public float golpe;
 	public float tiempo;
-		
-	public Rigidbody2D rb;
+	
 	private Animator animator;
 	
 	// Use this for initialization
 	void Start () {
-		rb = GetComponent<Rigidbody2D> ();
-
 		animator = GetComponent<Animator> ();
 		recibeDanyo = false;
-		this.gameObject.tag = "Jinete";
-		
+		this.gameObject.tag = "SoldadoAlly";
 		
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		rb.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
 		transform.position = new Vector2 (transform.position.x + X, transform.position.y);
 		
 		tiempo = Time.time;
@@ -59,7 +48,7 @@ public class JineteMov : MonoBehaviour {
 		}
 	}
 	private float resetVelocidad(){
-		this.X = 0.02f;
+		this.X = 0.01f;
 		return X;
 	}
 	private float detenerVelocidad(){
@@ -71,14 +60,14 @@ public class JineteMov : MonoBehaviour {
 		case "Leon":
 			detenerVelocidad();
 			animator.SetInteger("AnimState", 1);
-			danyo = danyo+10;
+			danyo = danyo+9;
 			recibeDanyo = true;
 			golpe = Time.time;
 			break;
 		case "SoldadoAlly":
 			detenerVelocidad();
 			animator.SetInteger("AnimState", 1);
-			danyo = danyo+5;
+			danyo = danyo+4;
 			recibeDanyo = true;
 			break;
 		default:

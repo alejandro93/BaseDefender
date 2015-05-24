@@ -56,7 +56,50 @@
 - Creada variable de tipo Animator en el script de movimiento para controlar el estado de la transición de las animaciones según la acción del objeto.
 - Establecido ángulo para los objetos mediante la interfaz de Unity, de modo que no roten los objetos al chocar con otros. Mediante esto solucionamos el desvío de los objetos al chocarse.
 - Establecido método OnTriggerEnter como sustituto de colision.
-- Asigando mediante la interfaz de Unity la variable animator a Jinete.
+- Asignado mediante la interfaz de Unity la variable animator a Jinete.
 - Asignado isTrigger mediante la interfaz gráfica de Unity a Jinete y Leon. 
 // isTrigger devuelve OnTriggerEnter, OnTriggerExit, OnTriggerStay...
 - Sobreescrito método OnTriggerEnter y OnTriggerExit para Jinete.
+- Añadido estados para cambiar animacion de Leon
+- Pasados componentes "Animator" en forma de variables privadas que son recogidas por getComponent <Animator>
+- Añadida funcion de movimiento a Leon y metodos OnTriggerEnter2D y OnTriggerExit2D
+- Añadido variables de daño y ataque a Leon y Jinete
+- Recogemos el objeto JineteMov desde Leon con GetComponent<JineteMov>
+- Obtenemos el daño de la unidad en cuestión.
+// En C# importas namespaces, no como en Java que importas types directamente.
+-  Cambiado métodos, eliminado GetComponent por problemas técnicos, asignado un switch en el que buscamos el tag y según su resultado modificamos la variable daño, aplicamos un estado de animacion y avanzamos a detenemos el objeto.
+- Creados metodos detenerVelocidad() que establece this.X a 0 y resetVelocidad para devolver this.X a su valor original.
+- Asignados los tag de forma manual mediante gameObject.tag
+- En el Update restamos a vida el valor de daño.
+- Fallo en el bucle, se ha de controlar el tiempo de la aplicación para disminuir la vida de forma no instantánea o infinita.
+- Añadida variable recibeDanyo de tipo bool
+- Añadida condicion a bucle Update, si recibeDanyo es true, le restamos a vida danyo
+- Añadido if a bucle Update, si vida <= 0, pasamos AnimState a 2 para activar la animacion de muerte
+- Creado método destruirObjeto, dentro usamos Destroy (this.gameObject)
+- Creado variable choque y tiempo que guardan el tiempo (Time.time) en el que se encuentra la aplicación. 
+- Inicializado choque en OnTriggerEnter2D, de modo que es el tiempo en el que chocan los objetos.
+- La variable tiempo la guardamos en el Update, de modo que está continuamente guardando el tiempo en el que se encuentra la aplicación desde que se inició.
+- Mediante un if comparamos si la diferencia entre tiempo y choque es de 1 segundo, si es el caso, esto restará danyo a la vida del objeto.
+- Renombrado choque a golpe.
+- Redefinido golpe por cada vez que disminuimos la vida, lo igualamos a tiempo, de modo que tenga que volver a haber una diferencia de un segundo para disminuir vida.
+- Añadida condición del mismo modo que antes, que la resta de tiempo-golpe sea >= 1, esta vez en el if en el que entra cuando vida llega a 0, para dar un segundo a la animación de muerte antes de destruir el objeto.
+- Añadido a la condicion que recibeDanyo sea false, lo cual ocurrirá cuando vida llegue a 0 o menos. Esto es porque de lo contrario, seguimos entrando en el bucle que modifica golpe a tiempo y nunca entramos en la condicion que destruye el objeto. De esta forma dejamos de actualizar golpe a tiempo y cuando tiempo-golpe >= 1, el objeto se destruirá mediante el método destruirObjeto() creado anteriormente.
+- Añadido recibeDanyo = false a OnTriggerExit2D
+- Creado objeto Soldado, animado con animaciones de movimiento, ataque y muerte usando el animador de Unity
+- Creado el script SoldadoMov.cs
+- Añadido transform.localScale para Soldado porque el sprite miraba en la otra dirección.
+- Añadido tag "SoldadoAlly"
+- Quitada gravedad y fijado el ángulo mediante la interfaz de Unity.
+- Creado SoldadoEnemy, animaciones de correr atacar y morir
+- Creado script SoldadoEnemyMov.cs para SoldadoEnemy
+- Añadido componentes RigidBody 2D, Box Collider 2D para los nuevos soldados
+- Hechos IsTrigger, angulo fijado y gravedad 0 mediante la interfaz.
+- Eliminado el script Movement.
+- Descubierto errata, cuando objetos aliados chocan, no se superponen si no que se bloquean entre ellos.
+- Eliminado componente RigidBody 2D de los objetos.
+- Cambiado OnTriggerEnter2D (Collider2D target) y demás eventos por OnCollisionEnter2D (Collision2D target)
+- Añadido OnCollisionStay2D para el comportamiento mientras permanecen chocando.
+- Guardados todos los gameObject en la carpeta Prefabs
+- Iniciada escena Menu
+- Importados sprites de edificios, terreno y skybox
+- Leer y aprender cómo usar el Canvas de Unity
