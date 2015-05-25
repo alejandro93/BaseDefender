@@ -20,7 +20,6 @@ public class SoldadoMov : MonoBehaviour {
 	
 	// Use this for initialization
 	void Start () {
-		rb.GetComponent<Rigidbody2D> ();
 		animator = GetComponent<Animator> ();
 		recibeDanyo = false;
 		this.gameObject.tag = "SoldadoAlly";
@@ -29,7 +28,6 @@ public class SoldadoMov : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		rb.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
 		transform.position = new Vector2 (transform.position.x - X, transform.position.y);
 		transform.localScale = new Vector3 (-1, 1, 1);
 		
@@ -58,7 +56,8 @@ public class SoldadoMov : MonoBehaviour {
 		this.X = 0f;
 		return X;
 	}
-	void OnCollisionEnter2D(Collision2D target){
+
+	void OnTriggerEnter2D(Collider2D target){
 		switch(target.gameObject.tag) {
 		case "Jinete":
 			detenerVelocidad();
@@ -74,38 +73,47 @@ public class SoldadoMov : MonoBehaviour {
 			recibeDanyo = true;
 			golpe = Time.time;
 			break;
-
 		default:
-//			resetVelocidad();
-//			animator.SetInteger("AnimState", 0);
-//			danyo = 0;
 			break;
 		}
 	}
-	void OnCollisionStay2D(Collision2D target){
-		switch(target.gameObject.tag) {
+	
+	void OnTriggerStay2D(Collider2D target){
+		switch (target.gameObject.tag) {
 		case "Jinete":
-			detenerVelocidad();
-			animator.SetInteger("AnimState", 1);
+			detenerVelocidad ();
+			animator.SetInteger ("AnimState", 1);
 			recibeDanyo = true;
 			break;
 		case "SoldadoEnemy":
-			detenerVelocidad();
-			animator.SetInteger("AnimState", 1);
+			detenerVelocidad ();
+			animator.SetInteger ("AnimState", 1);
 			recibeDanyo = true;
 			break;
 		default:
-			resetVelocidad();
-			animator.SetInteger("AnimState", 0);
 			break;
 		}
-
-	}/*
-	void OnTriggerExit2D(Collider2D target){
-		animator.SetInteger ("AnimState", 0);
-		recibeDanyo = false;
 	}
-	*/
+	
+	void OnTriggerExit2D(Collider2D target){
+		switch (target.gameObject.tag) {
+		case "Jinete":
+			resetVelocidad ();
+			animator.SetInteger ("AnimState", 0);
+			danyo = danyo - 9;
+			recibeDanyo = false;
+			break;
+		case "SoldadoEnemy":
+			resetVelocidad ();
+			animator.SetInteger ("AnimState", 0);
+			danyo = danyo - 4;
+			recibeDanyo = false;
+			break;
+		default:
+			break;
+		}
+	}
+
 	void destruirObjeto(){
 		transform.position = new Vector2 (transform.position.x - X, transform.position.y);
 		gameObject.SetActive(false);

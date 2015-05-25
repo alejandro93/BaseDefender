@@ -103,3 +103,23 @@
 - Iniciada escena Menu
 - Importados sprites de edificios, terreno y skybox
 - Leer y aprender cómo usar el Canvas de Unity
+- Cambiado fondo del Menu
+- Cambiado nombre de la escena del juego a Juego
+- Creado Canvas tanto en Menu como en Juego, ocupa el mismo espacio que la cámara (seleccionado mediante la interfaz de Unity)
+- Creados botones Nuevo juego, Record y Instrucciones en el Menu
+- Cambiado su color y su texto
+- Creado script CargarEscena
+- Creado método cargarEscena para abrir una escena nueva
+- Asignado a un objeto vacío en el juego
+- Asignado objeto al OnClick() de los botones
+- Elegido método a ejecutar del script en el OnClick del botón mediante la interfaz de Unity
+- Añadidos botones de Regresar en todas las pantallas
+- Asignado script cargarEscena a cada uno de los botones Regresar
+- El botón Regresar de la pantalla Juego tiene como texto "Abandonar", pendiente de añadir método que guarde record de partidas.
+- Añadido botón Salir en el menu
+- Añadido método salir al script CargarEscena, ejecuta Application.Quit();
+- Asignado salir a boton Salir
+- Devueltos todos los métodos OnCollisionEnter a OnTriggerEnter, y mediante la interfaz, los objetos devueltos a IsTrigger. Esto es porque a pesar de colisionar, no mandaban ningún evento, al parecer es necesario activar un Trigger para que envíen dicho evento además de estar colisionando. 
+- Eliminados del "default" de los switches sus acciones.
+- Eliminado modificacion de danyo en OnTriggerStay2D
+- Aplicado los mismos cambios al resto de scripts de los objetos.

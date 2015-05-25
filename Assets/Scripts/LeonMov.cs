@@ -56,31 +56,61 @@ public class LeonMov : MonoBehaviour {
 		this.X = 0f;
 		return X;
 	}
-	void OnCollisionEnter2D(Collision2D target){
+	void OnTriggerEnter2D(Collider2D target){
 		switch(target.gameObject.tag) {
-			case "Jinete":
-				detenerVelocidad();
-				animator.SetInteger("AnimState", 1);
-				danyo = danyo+9;
-				recibeDanyo = true;
-				golpe = Time.time;
-				break;
-			case "SoldadoEnemy":
-				detenerVelocidad();
-				animator.SetInteger("AnimState", 1);
-				danyo = danyo+4;
-				recibeDanyo = true;
-				break;
-			default:
-				resetVelocidad();
-				animator.SetInteger("AnimState", 0);
-				danyo = 0;
-				break;
+		case "Jinete":
+			detenerVelocidad();
+			animator.SetInteger("AnimState", 1);
+			danyo = danyo+9;
+			recibeDanyo = true;
+			golpe = Time.time;
+			break;
+		case "SoldadoEnemy":
+			detenerVelocidad();
+			animator.SetInteger("AnimState", 1);
+			danyo = danyo+4;
+			recibeDanyo = true;
+			golpe = Time.time;
+			break;
+		default:
+			break;
 		}
 	}
-	void OnCollisionExit2D(Collision2D target){
-		animator.SetInteger ("AnimState", 0);
-		recibeDanyo = false;
+	
+	void OnTriggerStay2D(Collider2D target){
+		switch (target.gameObject.tag) {
+		case "Jinete":
+			detenerVelocidad ();
+			animator.SetInteger ("AnimState", 1);
+			recibeDanyo = true;
+			break;
+		case "SoldadoEnemy":
+			detenerVelocidad ();
+			animator.SetInteger ("AnimState", 1);
+			recibeDanyo = true;
+			break;
+		default:
+			break;
+		}
+	}
+	
+	void OnTriggerExit2D(Collider2D target){
+		switch (target.gameObject.tag) {
+		case "Jinete":
+			resetVelocidad ();
+			animator.SetInteger ("AnimState", 0);
+			danyo = danyo - 9;
+			recibeDanyo = false;
+			break;
+		case "SoldadoEnemy":
+			resetVelocidad ();
+			animator.SetInteger ("AnimState", 0);
+			danyo = danyo - 4;
+			recibeDanyo = false;
+			break;
+		default:
+			break;
+		}
 	}
 	void destruirObjeto(){
 		gameObject.SetActive(false);
