@@ -123,3 +123,16 @@
 - Eliminados del "default" de los switches sus acciones.
 - Eliminado modificacion de danyo en OnTriggerStay2D
 - Aplicado los mismos cambios al resto de scripts de los objetos.
+- Creado script ClonarObjeto con los metodos clonarLeon y clonarSoldado
+- Cada uno de esos métodos ejecuta un método Instantiate con el nombre del prefab, su posicion y su rotacion
+- Asignado el script a los botones Infanteria y Caballeria
+- Establecida posicion x e y de origen para que se generen los objetos.
+- Creado script GenerarEnemigos.
+- Añadido Instantiate al bucle start() para generar el primer enemigo
+- Añadida variable de tipo int enemyCount que llevará la cuenta de los enemigos instanciados (++ cada vez que hagamos Instantiate)
+- Añadidas variables de tipo float tiempo y tiempoDesdeGenerado
+// Estas serán las variables que usemos para identificar el momento en el que estamos de la partida y el momento en el que se generó la última unidad enemiga, de modo que saquemos la siguiente
+- Igualado tiempoDesdeGenerado a tiempo tras cada Instantiate.
+// Cuantas más unidades hayamos generado, más Instantiate haremos, para aumentar la dificultad de la oleada.
+- Detectada errata, al destruirse el objeto, se destruye el script asociado a él, por lo que cuando realizamos Instantiate del objeto, se crea con los parámetros de su último clon.
+- Creado panel en Instrucciones.

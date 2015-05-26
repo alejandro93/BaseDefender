@@ -14,7 +14,7 @@ public class SoldadoEnemyMov : MonoBehaviour {
 	
 	public float golpe;
 	public float tiempo;
-	
+
 	private Animator animator;
 	
 	// Use this for initialization
@@ -114,6 +114,7 @@ public class SoldadoEnemyMov : MonoBehaviour {
 	}
 
 	void destruirObjeto(){
+		transform.position = new Vector2 (-13, -3);
 		gameObject.SetActive(false);
 		Destroy (gameObject);
 		

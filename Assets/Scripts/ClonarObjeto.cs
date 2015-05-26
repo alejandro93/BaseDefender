@@ -3,9 +3,15 @@ using System.Collections;
 
 public class ClonarObjeto : MonoBehaviour {
 
-	public GameObject unidad;
+	public Vector3 posicion = new Vector3 (6.53f, -0.68f, 0f);
+	public GameObject Leon;
+	public GameObject SoldadoAlly;
 	
-	public void clonarObjeto () {
-//		Instantiate (unidad, new Vector3(6.53, -0.71, 0), Quaternion.identity);
+	public void clonarLeon (GameObject objeto) {
+		Instantiate (Leon, posicion, Quaternion.identity);
+	}
+
+	public void clonarSoldado (GameObject objeto) {
+		Instantiate (SoldadoAlly, posicion, Quaternion.identity);
 	}
 }

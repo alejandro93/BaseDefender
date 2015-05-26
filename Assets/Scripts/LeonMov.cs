@@ -113,6 +113,7 @@ public class LeonMov : MonoBehaviour {
 		}
 	}
 	void destruirObjeto(){
+		transform.position = new Vector2 (-13, -3);
 		gameObject.SetActive(false);
 		Destroy (gameObject);
 
