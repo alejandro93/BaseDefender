@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.UI;
 
 public class TorreAlly : MonoBehaviour {
 
@@ -10,6 +11,8 @@ public class TorreAlly : MonoBehaviour {
 	
 	public float golpe;
 	public float tiempo;
+
+	public Text Mensaje;
 	
 	// Use this for initialization
 	void Start () {
@@ -22,7 +25,11 @@ public class TorreAlly : MonoBehaviour {
 		tiempo = Time.time;
 		
 		if (vida <= 0) {
-			Application.LoadLevel("Juego");
+			Mensaje.text = "DERROTA";
+			Time.timeScale = 0;
+			if (Input.GetMouseButtonDown(0)){
+				Recargar();
+			}
 		}
 		else
 		if (recibeDanyo == true) {
@@ -78,5 +85,10 @@ public class TorreAlly : MonoBehaviour {
 		default:
 			break;
 		}
+	}
+	void Recargar () {
+		Time.timeScale = 1;
+		Application.LoadLevel ("Menu");
+		
 	}
 }

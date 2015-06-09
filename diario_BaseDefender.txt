@@ -174,4 +174,7 @@
 - Añadidos detalles visuales como una moneda junto al texto del dinero, o un texto indicando el coste de la unidad que genera cada boton
 - Añadido Application.LoadlLevel("Juego") en el bucle de las torres cuando su vida llegue a 0, de esta forma reiniciamos el nivel.
 - Añadido texto que marcará el número de victorias consecutivas
-- 
+- Añadido método Recargar a los script de las torres, que recargará el nivel.
+- En el bucle Update, cuando la vida de las torres llega a 0, paramos el tiempo Time.timeScale = 0, mostramos "Victoria" o "Derrota" y esperamos a que el usuario haga clic en la pantalla para ejecutar Recarga ()
+//Esto se hace con Input.GetMouseButtonDown(0) en el if
+- Añadida Time.timeScale = 1 antes de cargar la escena de nuevo

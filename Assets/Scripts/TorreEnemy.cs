@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.UI;
 
 public class TorreEnemy : MonoBehaviour {
 
@@ -11,6 +12,7 @@ public class TorreEnemy : MonoBehaviour {
 	public float golpe;
 	public float tiempo;
 
+	public Text Mensaje;
 	// Use this for initialization
 	void Start () {
 		recibeDanyo = false;
@@ -22,7 +24,11 @@ public class TorreEnemy : MonoBehaviour {
 		tiempo = Time.time;
 		
 		if (vida <= 0) {
-			Application.LoadLevel("Juego");
+			Mensaje.text = "VICTORIA";
+			Time.timeScale = 0;
+			if (Input.GetMouseButtonDown(0)){
+				Recargar();
+			}
 		}
 		else
 		if (recibeDanyo == true) {
@@ -77,5 +83,10 @@ public class TorreEnemy : MonoBehaviour {
 			default:
 				break;
 		}
+	}
+	void Recargar () {
+		Time.timeScale = 1;
+		Application.LoadLevel ("Juego");
+
 	}
 }
