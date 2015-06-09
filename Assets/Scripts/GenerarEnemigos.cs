@@ -4,24 +4,44 @@ using System.Collections;
 public class GenerarEnemigos : MonoBehaviour {
 
 	public GameObject SoldadoEnemy;
-	public Vector3 posicion = new Vector3(-6.53f , -0.48f, 0f);
+	public GameObject Jinete;
+
 	public int enemyCount = 0;
-	public float tiempoDesdeGenerado;
+	public float ultimoGenerado;
 	public float tiempo;
 
+	public float random;
 	// Use this for initialization
 	void Start () {
-		Instantiate (SoldadoEnemy, posicion, Quaternion.identity);
+		Instantiate (SoldadoEnemy, new Vector3(-7.3f , -0.5f, 0f), Quaternion.identity);
 		enemyCount++;
-		tiempoDesdeGenerado = Time.time;
+		ultimoGenerado = Time.time;
 	}
 	
 	// Update is called once per frame
 	void Update () {
 		tiempo = Time.time;
-		if ((tiempo - tiempoDesdeGenerado) >= 4) {
-			Instantiate (SoldadoEnemy, posicion, Quaternion.identity);
-			tiempoDesdeGenerado = tiempo;
+		if (enemyCount > 2) {
+			random = Random.Range(0f, 1f);
+
+			if ((tiempo - ultimoGenerado) >= 5) {
+				if(random > 0.7f){
+					Instantiate (Jinete, new Vector3(-7f , -1f, 0f), Quaternion.identity);
+					ultimoGenerado = tiempo;
+					enemyCount++;
+				}
+				else{
+					Instantiate (SoldadoEnemy, new Vector3(-7.3f , -0.5f, 0f), Quaternion.identity);
+					ultimoGenerado = tiempo;
+					enemyCount++;
+				}
+			}
+		}
+		else 
+		if ((tiempo - ultimoGenerado) >= 7) {
+			Instantiate (SoldadoEnemy, new Vector3(-7.3f , -0.5f, 0f), Quaternion.identity);
+			ultimoGenerado = tiempo;
+			enemyCount++;
 		}
 	}
 }

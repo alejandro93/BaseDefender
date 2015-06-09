@@ -9,6 +9,7 @@ public class SoldadoMov : MonoBehaviour {
 	public int vida = 50;
 	
 	private bool recibeDanyo = false;
+	private bool muerto = false;
 	
 	public int danyo = 0;
 	
@@ -16,7 +17,6 @@ public class SoldadoMov : MonoBehaviour {
 	public float tiempo;
 	
 	private Animator animator;
-	public Rigidbody2D rb;
 	
 	// Use this for initialization
 	void Start () {
@@ -43,7 +43,10 @@ public class SoldadoMov : MonoBehaviour {
 		if (vida <= 0) {
 			animator.SetInteger ("AnimState", 2);
 			recibeDanyo = false;
-			if((tiempo-golpe) >= 4){
+			muerto = true;
+		}
+		if (muerto == true) {
+			if((tiempo-golpe) >= 1){
 				destruirObjeto();
 			}
 		}
@@ -73,25 +76,35 @@ public class SoldadoMov : MonoBehaviour {
 			recibeDanyo = true;
 			golpe = Time.time;
 			break;
+		case "Tower":
+			detenerVelocidad();
+			animator.SetInteger("AnimState", 1);
+			break;
 		default:
 			break;
 		}
 	}
 	
 	void OnTriggerStay2D(Collider2D target){
-		switch (target.gameObject.tag) {
-		case "Jinete":
-			detenerVelocidad ();
-			animator.SetInteger ("AnimState", 1);
-			recibeDanyo = true;
-			break;
-		case "SoldadoEnemy":
-			detenerVelocidad ();
-			animator.SetInteger ("AnimState", 1);
-			recibeDanyo = true;
-			break;
-		default:
-			break;
+		if(muerto == false) {
+			switch (target.gameObject.tag) {
+			case "Jinete":
+				detenerVelocidad ();
+				animator.SetInteger ("AnimState", 1);
+				recibeDanyo = true;
+				break;
+			case "SoldadoEnemy":
+				detenerVelocidad ();
+				animator.SetInteger ("AnimState", 1);
+				recibeDanyo = true;
+				break;
+			case "Tower":
+				detenerVelocidad();
+				animator.SetInteger("AnimState", 1);
+				break;
+			default:
+				break;
+			}
 		}
 	}
 	
@@ -116,8 +129,8 @@ public class SoldadoMov : MonoBehaviour {
 
 	void destruirObjeto(){
 		transform.position = new Vector2 (-13, -3);
-		gameObject.SetActive(false);
-		Destroy (gameObject);
+//		gameObject.SetActive(false);
+//		Destroy (gameObject);
 		
 	}
 }

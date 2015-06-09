@@ -15,6 +15,7 @@ public class JineteMov : MonoBehaviour {
 	public int vida = 100;
 	
 	private bool recibeDanyo = false;
+	private bool muerto = false;
 	
 	public int danyo = 0;
 	
@@ -34,10 +35,8 @@ public class JineteMov : MonoBehaviour {
 		
 		
 	}
-	
 	// Update is called once per frame
 	void Update () {
-		rb.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
 		transform.position = new Vector2 (transform.position.x + X, transform.position.y);
 		
 		tiempo = Time.time;
@@ -52,20 +51,23 @@ public class JineteMov : MonoBehaviour {
 		if (vida <= 0) {
 			animator.SetInteger ("AnimState", 2);
 			recibeDanyo = false;
+			muerto = true;
+		}
+		if (muerto == true) {
 			if((tiempo-golpe) >= 1){
-				
 				destruirObjeto();
 			}
 		}
 	}
 	private float resetVelocidad(){
-		this.X = 0.02f;
+		this.X = 0.01f;
 		return X;
 	}
 	private float detenerVelocidad(){
 		this.X = 0f;
 		return X;
 	}
+	
 	void OnTriggerEnter2D(Collider2D target){
 		switch(target.gameObject.tag) {
 		case "Leon":
@@ -82,50 +84,60 @@ public class JineteMov : MonoBehaviour {
 			recibeDanyo = true;
 			golpe = Time.time;
 			break;
+		case "Tower":
+			detenerVelocidad();
+			animator.SetInteger("AnimState", 1);
+			break;
 		default:
 			break;
 		}
 	}
 	
 	void OnTriggerStay2D(Collider2D target){
-		switch (target.gameObject.tag) {
-		case "Leon":
-			detenerVelocidad ();
-			animator.SetInteger ("AnimState", 1);
-			recibeDanyo = true;
-			break;
-		case "SoldadoAlly":
-			detenerVelocidad ();
-			animator.SetInteger ("AnimState", 1);
-			recibeDanyo = true;
-			break;
-		default:
-			break;
+		if(muerto == false){
+			switch (target.gameObject.tag) {
+			case "Leon":
+				detenerVelocidad ();
+				animator.SetInteger ("AnimState", 1);
+				recibeDanyo = true;
+				break;
+			case "SoldadoAlly":
+				detenerVelocidad ();
+				animator.SetInteger ("AnimState", 1);
+				recibeDanyo = true;
+				break;
+			case "Tower":
+				detenerVelocidad();
+				animator.SetInteger("AnimState", 1);
+				break;
+			default:
+				break;
+			}
 		}
 	}
 	
 	void OnTriggerExit2D(Collider2D target){
 		switch (target.gameObject.tag) {
-		case "Leon":
-			resetVelocidad ();
-			animator.SetInteger ("AnimState", 0);
-			danyo = danyo - 10;
-			recibeDanyo = false;
-			break;
-		case "SoldadoAlly":
-			resetVelocidad ();
-			animator.SetInteger ("AnimState", 0);
-			danyo = danyo - 5;
-			recibeDanyo = false;
-			break;
-		default:
-			break;
+			case "Leon":
+				resetVelocidad ();
+				animator.SetInteger ("AnimState", 0);
+				danyo = danyo - 10;
+				recibeDanyo = false;
+				break;
+			case "SoldadoAlly":
+				resetVelocidad ();
+				animator.SetInteger ("AnimState", 0);
+				danyo = danyo - 5;
+				recibeDanyo = false;
+				break;
+			default:
+				break;
 		}
 	}
 	void destruirObjeto(){
 		transform.position = new Vector2 (-13, -3);
-		gameObject.SetActive(false);
-		Destroy (gameObject);
+//		gameObject.SetActive(false);
+//		Destroy (gameObject);
 		
 	}
 }

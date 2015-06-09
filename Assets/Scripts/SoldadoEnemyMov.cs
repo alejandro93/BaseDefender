@@ -9,6 +9,7 @@ public class SoldadoEnemyMov : MonoBehaviour {
 	public int vida = 50;
 	
 	private bool recibeDanyo = false;
+	private bool muerto = false;
 	
 	public int danyo = 0;
 	
@@ -41,8 +42,10 @@ public class SoldadoEnemyMov : MonoBehaviour {
 		if (vida <= 0) {
 			animator.SetInteger ("AnimState", 2);
 			recibeDanyo = false;
+			muerto = true;
+		}
+		if (muerto == true) {
 			if((tiempo-golpe) >= 1){
-				
 				destruirObjeto();
 			}
 		}
@@ -72,26 +75,36 @@ public class SoldadoEnemyMov : MonoBehaviour {
 				recibeDanyo = true;
 				golpe = Time.time;
 				break;
+			case "Tower":
+				detenerVelocidad();
+				animator.SetInteger("AnimState", 1);
+				break;
 			default:
 				break;
 			}
 	}
 
 	void OnTriggerStay2D(Collider2D target){
-		switch (target.gameObject.tag) {
-			case "Leon":
-				detenerVelocidad ();
-				animator.SetInteger ("AnimState", 1);
-				recibeDanyo = true;
-				break;
-			case "SoldadoAlly":
-				detenerVelocidad ();
-				animator.SetInteger ("AnimState", 1);
-				recibeDanyo = true;
-				break;
-			default:
-				break;
+		if(muerto == false){
+			switch (target.gameObject.tag) {
+				case "Leon":
+					detenerVelocidad ();
+					animator.SetInteger ("AnimState", 1);
+					recibeDanyo = true;
+					break;
+				case "SoldadoAlly":
+					detenerVelocidad ();
+					animator.SetInteger ("AnimState", 1);
+					recibeDanyo = true;
+					break;
+				case "Tower":
+					detenerVelocidad();
+					animator.SetInteger("AnimState", 1);
+					break;
+				default:
+					break;
 			}
+		}
 	}
 
 	void OnTriggerExit2D(Collider2D target){
@@ -115,8 +128,8 @@ public class SoldadoEnemyMov : MonoBehaviour {
 
 	void destruirObjeto(){
 		transform.position = new Vector2 (-13, -3);
-		gameObject.SetActive(false);
-		Destroy (gameObject);
+//		gameObject.SetActive(false);
+//		Destroy (gameObject);
 		
 	}
 }

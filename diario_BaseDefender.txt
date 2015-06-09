@@ -136,3 +136,10 @@
 // Cuantas más unidades hayamos generado, más Instantiate haremos, para aumentar la dificultad de la oleada.
 - Detectada errata, al destruirse el objeto, se destruye el script asociado a él, por lo que cuando realizamos Instantiate del objeto, se crea con los parámetros de su último clon.
 - Creado panel en Instrucciones.
+- Creado ScrollRect (renombrado a ScrollView), un Text y un Scrollbar
+- Asignado el Scrollbar al ScrollRect mediante interfaz de Unity
+- El Text es el Content del ScrollRect
+- Utilizado componente Mask para tapar el contenido sobrante de Text del Panel, que se desliza con el Scrollbar que hemos asignado.
+- Introducido texto a modo de instrucciones en el Text
+- Añadida variable muerte de tipo bool que se pone a true cuando vida baje de 0.
+- Modificado bucle de juego.
