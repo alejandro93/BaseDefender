@@ -143,3 +143,35 @@
 - Introducido texto a modo de instrucciones en el Text
 - Añadida variable muerte de tipo bool que se pone a true cuando vida baje de 0.
 - Modificado bucle de juego.
+- Añadido condicion if (muerto == false) para el OnTriggerStay2D
+- Comentados los SetActive y los Destroy de las unidades
+- Creados script TorreAlly y TorreEnemy
+- Inicializada variable vida en scripts de las torres
+- Creados métodos OnTriggerEnter2D, OnTriggerStay2D y OnTriggerExit2D
+- Creadas variables de danyo, golpe, tiempo y recibeDanyo.
+- Introducido switch en los OnTrigger siguiendo los casos de las unidades para modificar los valores de danyo, golpe y recibeDanyo cuand esté en contacto con una unidad.
+- Asignado tag "Tower" a las torres.
+- Añadido case "Tower" a los OnTriggerEnter2D de las unidades para que se detengan y ataquen.
+- Modificado bucle Update de las torres, añadidas condiciones de vida <= 0 y recibeDanyo == true para modificar su comportamiento
+- Modificados valores de posicion de las unidades para que aparezcan lo suficientemente cerca como para golpear a los enemigos que se encuentren en la torre.
+- Añadido Random (float) para generar de vez en cuando un Jinete enemigo
+- Añadido el case "Tower" al OnTriggerStay de las unidades, ya que si no al ejecutarse el OnTriggerExit dejan de golpearla.
+- Creado script Dinero.
+- No encontrada forma de identificar un objeto destruido y añadir dinero al usuario, utilizado variable en el tiempo para sumar dinero.
+- Creado un Text en Canvas donde se mosytrará el dinero actual.
+- Añadido using UnityEnige.UI al script Dinero para poder identificar el Text Moneda.
+- Modificado bucle de Dinero, actualiza el ingreso a tiempo, suma 10 a dinero y cambia el texto del Text cada 2 segundos 
+//Moneda.text = dinero.ToString();
+- Creado script EnableButton que determinará si un botón es interactuable o no.
+- Declaradas variables de tipo GameObject infanteria y caballeria
+- Obtenido el valor de interactable de cada boton mediante el metodo GetComponent<Button>().interactable (IsInteractable)
+- Obtenido el texto de Moneda y realizado un int.Parse para poder manejar su contenido numéricamente.
+- Incluido el código de la clase ClonarObjeto a EnableButton, de esta manera nos ahorramos una clase.
+- Impuesta condicion mediante la cual si no disponemos del dinero necesario el boton no será interactuable, en caso de poder interaccionar, se restará el dinero en cuestión.
+- Puestos a false las propiedades interactable de los botones en el Start() de EnableButton
+- Eliminado script ClonarObjeto
+- Añadido control de cuánto dinero hay en el texto antes de sumarlo periódicamente, en la clase Dinero
+- Añadidos detalles visuales como una moneda junto al texto del dinero, o un texto indicando el coste de la unidad que genera cada boton
+- Añadido Application.LoadlLevel("Juego") en el bucle de las torres cuando su vida llegue a 0, de esta forma reiniciamos el nivel.
+- Añadido texto que marcará el número de victorias consecutivas
+- 
