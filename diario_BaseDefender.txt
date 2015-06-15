@@ -178,3 +178,26 @@
 - En el bucle Update, cuando la vida de las torres llega a 0, paramos el tiempo Time.timeScale = 0, mostramos "Victoria" o "Derrota" y esperamos a que el usuario haga clic en la pantalla para ejecutar Recarga ()
 //Esto se hace con Input.GetMouseButtonDown(0) en el if
 - Añadida Time.timeScale = 1 antes de cargar la escena de nuevo
+- Añadida clase FileHelper
+- Añadido método void writeRecord() para escribir en fichero
+- Utilizado File.WriteAllText() para escribir en un fichero
+//using System.IO
+- Guardado en variable victorias el contenido del texto VictoriasTotales
+- Modificado el contenido de VictoriasTotales en caso de haber victoria
+- En writeFile(), lectura del contenido con File.ReadAllText() y guardado en una variable contenido
+- Guardado en un array el contenido separado por ',' del fichero usando Split()
+//array [0] = victorias    array [1] = record
+- Guardado en variables de tipo int los int.Parse() de victorias y record
+- Comparado que victorias sea mayor que record, en ese caso substituimos record por el valor de victorias
+- Añadimos métodos writeVictorias(), readRecord() y writeRecord(), que escribirán las victorias actuales, y leerán del fichero las victorias o el record.
+- En writeVictorias mantenemos el valor de record y sólo substituimos las victorias actuales en el documento
+- readVictorias() simplemente recoge las victorias y las escribe en el texto VictoriasTotales
+- readRecord recoge el record del documento y lo escribe en el texto de la pantalla Record
+- Usado writeVictorias() cuando vida de TorreEnemy llega a 0, una vez el usuario presiona en la pantalla
+- Aplicado el mismo principio a TorreAlly, cuando su vida llega a 0, salvo que esta vez usaremos writeRecord
+- Usamos readVictorias() para controlar el valor del texto VictoriasTotales, y será este valor el que guardemos con writeVictorias()
+- Aplicado writeRecord() al OnClick del botón Regresar de la pantalla de juego
+- Comprobado que todo funciona correctamente
+- Creado script LoadRecord para manejar el bucle de juego de la escena Record
+- Aplicado al void Strat() el método readRecord(), cuyo valor se guardará en el texto RecordValue
+- Añadido try catch a los metodos readVictorias() y readRecord() para capturar la excepcion FileNotFoundException y crear un fichero en su lugar con el contenido apropiado.

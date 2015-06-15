@@ -7,16 +7,23 @@ public class TorreEnemy : MonoBehaviour {
 	public int vida = 1000;
 	public int danyo = 0;
 
+	public int victorias;
+
 	private bool recibeDanyo = false;
 
 	public float golpe;
 	public float tiempo;
 
 	public Text Mensaje;
+	public Text VictoriasTotales;
+	
+	public FileHelper fileHelper;
 	// Use this for initialization
 	void Start () {
 		recibeDanyo = false;
 		this.gameObject.tag = "Tower";
+
+		VictoriasTotales.text = fileHelper.readVictorias ();
 	}
 	
 	// Update is called once per frame
@@ -25,8 +32,15 @@ public class TorreEnemy : MonoBehaviour {
 		
 		if (vida <= 0) {
 			Mensaje.text = "VICTORIA";
+			victorias = int.Parse(VictoriasTotales.text);
+
+			
 			Time.timeScale = 0;
 			if (Input.GetMouseButtonDown(0)){
+				victorias = victorias+1;
+				VictoriasTotales.text = victorias.ToString();
+
+				fileHelper.writeVictorias();
 				Recargar();
 			}
 		}

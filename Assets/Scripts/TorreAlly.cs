@@ -6,13 +6,15 @@ public class TorreAlly : MonoBehaviour {
 
 	public int vida = 1000;
 	public int danyo = 0;
-	
+
 	private bool recibeDanyo = false;
 	
 	public float golpe;
 	public float tiempo;
 
 	public Text Mensaje;
+
+	public FileHelper fileHelper;
 	
 	// Use this for initialization
 	void Start () {
@@ -28,7 +30,9 @@ public class TorreAlly : MonoBehaviour {
 			Mensaje.text = "DERROTA";
 			Time.timeScale = 0;
 			if (Input.GetMouseButtonDown(0)){
-				Recargar();
+				
+				fileHelper.writeRecord();
+				salirMenu();
 			}
 		}
 		else
@@ -86,7 +90,7 @@ public class TorreAlly : MonoBehaviour {
 			break;
 		}
 	}
-	void Recargar () {
+	void salirMenu () {
 		Time.timeScale = 1;
 		Application.LoadLevel ("Menu");
 		
