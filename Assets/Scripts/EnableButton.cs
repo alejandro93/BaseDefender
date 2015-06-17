@@ -48,7 +48,6 @@ public class EnableButton : MonoBehaviour {
 		}
 
 	}
-
 	public void clonarLeon (GameObject objeto) {
 		Instantiate (Leon, new Vector3 (7f, -1f, 0f), Quaternion.identity);
 		dinero = dinero-40;

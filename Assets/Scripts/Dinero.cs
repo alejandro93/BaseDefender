@@ -23,20 +23,11 @@ public class Dinero : MonoBehaviour {
 
 		texto = Moneda.text;
 
-		if(dinero >= 20) {
+		if((tiempo - ingreso) >= 2){
 			dinero = int.Parse(texto);
-			if((tiempo - ingreso) >= 2){
-				dinero = dinero+10;
-				ingreso = tiempo;
-				Moneda.text = dinero.ToString();
-			}
-		}
-		else {
-			if((tiempo - ingreso) >= 2){
-				dinero = dinero+10;
-				ingreso = tiempo;
-				Moneda.text = dinero.ToString();
-			}
+			dinero = dinero+10;
+			ingreso = tiempo;
+			Moneda.text = dinero.ToString();
 		}
 	}
 }

@@ -53,14 +53,11 @@ public class FileHelper : MonoBehaviour {
 
 	public string readVictorias(){
 		try{
-			TextReader tr = new StreamReader("Record.txt");
-			contenido = tr.ReadToEnd();
+			contenido = File.ReadAllText("Record.txt");
 
 			array = contenido.Split (',');
 
 			victorias = array [0];
-
-			tr.Close();
 
 			return victorias;
 		}
